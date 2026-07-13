@@ -5,9 +5,3 @@ class Solution(object):
         else :
             return False
 
-s = "anagram"
-t = "nagaram"
-obj = Solution()
-print(obj.isAnagram(s,t))
-
-        
